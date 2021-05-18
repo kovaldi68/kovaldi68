@@ -19,3 +19,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-00759d?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dmitry-kovalenko-1ab9711ba)
 [![VKontakte](https://img.shields.io/badge/-VKontakte-00759d?style=for-the-badge&logo=vk&logoColor=fff)](https://vk.com/kda51)
 [![Telegram](https://img.shields.io/badge/-Telegram-00759d?style=for-the-badge&logo=telegram)](https://t.me/kovaldi)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kovaldi68&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
