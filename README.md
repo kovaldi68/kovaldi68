@@ -1,5 +1,3 @@
-![Header](https://github.com/kovaldi68/kovaldi68/blob/main/assets/header.jpeg)
-
 ### 🔧 Languages and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML5-00759d?style=for-the-badge&logo=HTML5)
